@@ -21,3 +21,8 @@ Acerca de...
 ------------
 
 Este tutorial fue creado por alumnos programadores del ITS Villada (Córdoba capital), con el fin de utilizar esta gran herramienta que nos brinda GitHub.
+
+.. image:: http://creativecommons.org/licenses/by-sa/3.0/deed.es
+  :align: center
+
+Conociendo GitHub por Luciano Castillo se encuentra bajo una Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported.
