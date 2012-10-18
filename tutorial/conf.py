@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Conociendo GitHub documentation build configuration file, created by
-# sphinx-quickstart on Wed Oct  3 20:54:28 2012.
+# sphinx-quickstart on Wed Oct 17 21:50:42 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -91,7 +91,7 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'nature'
+html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -141,7 +141,7 @@ html_static_path = ['_static']
 #html_domain_indices = True
 
 # If false, no index is generated.
-html_use_index = False
+#html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
 #html_split_index = False
