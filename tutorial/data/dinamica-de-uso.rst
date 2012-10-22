@@ -71,13 +71,17 @@ Para crear un proyecto desde cero, habrá que comenzar creando los archivos del 
 
 En el primer recuadro de la ayuda, verás una serie de comandos para el terminal.
 
-.. image:: imagenes/github7.png
-    :scale: 80 %
-    :align: center
+    touch README.md
+    git init
+    git add README.md
+    git commit -m "comentario"
+    git remote add origin https://github.com/LuchoCastillo/Repositorio.git
+    git push -u origin master
+
 
 Antes de seguirlos, tendrás que instalar git: ::
 
-    $ sudo apt-get install git
+    sudo apt-get install git
 
 
 Subir proyecto
@@ -87,6 +91,15 @@ Para subir un proyecto ya realizado a GitHub, habrá que seguir exactamente los 
 
 En este caso, los archivos junto con su contenido, ya están hechos. Solo hay que subirlos y editarlos si surge algún inconveniente.
 
+Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir estos pasos:
+
+    git add archivo
+    git commit -m "comentario"
+    git push
+
+Es importante realizar los 3, ya que si no se ingresa un comentario, no se realiza el cambio.
+
+Para adquirir un poco más de práctica y conocer más comandos de ``git``, pueden ingresar a este `turorial <try.github.com/>_` bastante práctico.
 
 
 Colaborar en un proyecto ajeno
