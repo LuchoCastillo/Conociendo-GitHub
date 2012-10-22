@@ -99,7 +99,7 @@ Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir es
 
 Es importante realizar los 3, ya que si no se ingresa un comentario, no se realiza el cambio.
 
-Para adquirir un poco más de práctica y conocer más comandos de ``git``, pueden ingresar a este `turorial <try.github.com/>`_ bastante práctico.
+Para adquirir un poco más de práctica y conocer más comandos de ``git``, pueden ingresar a este `turorial <https://try.github.com/>`_ bastante práctico.
 
 
 Colaborar en un proyecto ajeno
