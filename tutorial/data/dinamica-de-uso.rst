@@ -69,7 +69,7 @@ Al crear el repositorio, inmediatamente nos va a llevar a él. Como nuestro proy
 
 Para crear un proyecto desde cero, habrá que comenzar creando los archivos del mismo y luego subiéndolos a la página.
 
-En el primer recuadro de la ayuda, verás una serie de comandos para el terminal.
+En el primer recuadro de la ayuda, verás una serie de comandos para el terminal. ::
 
     touch README.md
     git init
@@ -91,7 +91,7 @@ Para subir un proyecto ya realizado a GitHub, habrá que seguir exactamente los 
 
 En este caso, los archivos junto con su contenido, ya están hechos. Solo hay que subirlos y editarlos si surge algún inconveniente.
 
-Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir estos pasos:
+Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir estos pasos: ::
 
     git add archivo
     git commit -m "comentario"
